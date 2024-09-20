@@ -1,0 +1,70 @@
+[
+  {
+    "orderID": "ORD001",
+    "customerName": "John Doe",
+    "products": [
+      {
+        "name": "Laptop",
+        "quantity": 1,
+        "priceForOne": 1000.0
+      },
+      {
+        "name": "Wire",
+        "quantity": 2,
+        "priceForOne": 25.0
+      }
+    ],
+    "paymentMethod": "CASH"
+  },
+  {
+    "orderID": "ORD001",
+    "customerName": "John Doe",
+    "products": [
+      {
+        "name": "Laptop",
+        "quantity": 1,
+        "priceForOne": 1000.0
+      },
+      {
+        "name": "Mouse",
+        "quantity": 2,
+        "priceForOne": 25.0
+      }
+    ],
+    "paymentMethod": "CARD"
+  },
+  {
+    "orderID": "ORD001",
+    "customerName": "John Doe",
+    "products": [
+      {
+        "name": "Laptop",
+        "quantity": 1,
+        "priceForOne": 1000.0
+      },
+      {
+        "name": "Mouse",
+        "quantity": 2,
+        "priceForOne": 25.0
+      }
+    ],
+    "paymentMethod": "CARD"
+  },
+  {
+    "orderID": "ORD002",
+    "customerName": "Jane Smith",
+    "products": [
+      {
+        "name": "Keyboard",
+        "quantity": 1,
+        "priceForOne": 50.0
+      },
+      {
+        "name": "Monitor",
+        "quantity": 1,
+        "priceForOne": 150.0
+      }
+    ],
+    "paymentMethod": "CARD"
+  }
+]
